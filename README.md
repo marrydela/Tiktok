@@ -1,2 +1,2 @@
-# Tiktok
-Redirect page to Tiktok
+#  IDG
+Redirect page to IDG
